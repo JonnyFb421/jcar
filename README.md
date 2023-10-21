@@ -50,7 +50,7 @@ Feel free to make any changes, improvements, or reuse any part of this project. 
 
 ## 💔 Known Issues
 
-This project still uses <img> instead of the NextJS optimized <Image>
+This project still uses `<img>` instead of the NextJS optimized `<Image>`
 
 
 ## 🤝 Let's Connect
