@@ -104,7 +104,6 @@ export default function Navbar({
                 as="a"
                 href="/JonathonCarlyon.pdf"
                 download
-                onClick={() => console.log("TODO later")}
                 className={classNames(
                   "text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium",
                 )}
